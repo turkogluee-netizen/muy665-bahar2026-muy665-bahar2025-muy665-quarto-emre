@@ -1,8 +1,8 @@
 ---
-title: "Analitik sayfama hoş geldiniz"
+title: "Emre Türkoğlu'nun Analitik Sayfasına Hoş Geldiniz"
 sidebar: false 
 ---
 
 MUY660-İş Analitiği dersi sayfama hoş geldiniz.
 
-Bu analitik çalışmalarımızı paylaşıyorum.
+Bu analitik çalışmalarımı paylaşıyorum.

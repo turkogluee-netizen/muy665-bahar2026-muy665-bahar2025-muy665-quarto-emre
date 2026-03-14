@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[xxxx]'in Analitik Labı"
+  title: "Emre Türkoğlu'nun Analitik Labı"
   navbar:
     search: true
     left:
@@ -22,11 +22,11 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
+        href: https://github.com/turkogluee-netizen
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/turkogluee-netizen
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://linkedin.com/in/turkogluee-netizen
 
   sidebar:
     - title: "Çalışmalar"
