@@ -1,11 +1,34 @@
 ---
-title: "Çalışma 1"
+title: "Video1 Summary"
 ---
 
-\
-(Aşağıdakiler örnek olarak verilmiştir.)
+Video Konusu
 
-Bu çalışmada 3 görevimiz var. Bu görevler..... Bunlara sırayla aşağıda cevap arıyoruz.
+Video, iş analitiği (Business Analytics) kavramını tanıtmakta ve işletmelerin karar verme süreçlerinde verinin nasıl kullanılabileceğini açıklamaktadır.
+
+Ana Fikir
+
+Videonun temel amacı, günümüzde işletmelerin büyük miktarda veri ürettiğini ve bu verilerin doğru analiz edilmesi durumunda şirketlerin daha doğru ve stratejik kararlar alabileceğini göstermektir. İş analitiği, verileri anlamlı bilgiye dönüştürerek yöneticilere karar alma sürecinde önemli bir destek sağlar.
+
+Önemli Noktalar
+
+İş analitiği, işletmelerin verileri analiz ederek performanslarını artırmalarına yardımcı olur.
+
+Kurumlar müşteri davranışları, satış verileri ve operasyonel süreçlerden elde edilen verileri analiz ederek daha doğru tahminler yapabilirler.
+
+İş analitiği üç ana kategoriye ayrılır:
+
+Tanımlayıcı analitik (Descriptive analytics): Geçmişte ne olduğunu anlamaya yardımcı olur.
+
+Tahmine dayalı analitik (Predictive analytics): Gelecekte ne olabileceğini tahmin eder.
+
+Önerici analitik (Prescriptive analytics): En iyi kararın ne olması gerektiğini önerir.
+
+Bu yöntemler sayesinde işletmeler rekabet avantajı elde edebilir ve daha verimli çalışabilir.
+
+Sonuç / Değerlendirme
+
+Video, iş analitiğinin modern işletmeler için neden önemli olduğunu açıklamaktadır. Veriye dayalı karar verme yaklaşımı sayesinde şirketler riskleri azaltabilir, fırsatları daha iyi değerlendirebilir ve stratejik kararlarını daha sağlam temellere dayandırabilir.
 
 ## (a)
 
