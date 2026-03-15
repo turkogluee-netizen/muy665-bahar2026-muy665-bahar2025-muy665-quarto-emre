@@ -3,9 +3,54 @@ title: "Çalışma 2"
 ---
 
 \
-(Aşağıdakiler örnek olarak verilmiştir.)
+my_first <- "Emre"
+my_birth_year <- 1987
 
-Bu çalışmada 3 görevimiz var. Bu görevler..... Bunlara sırayla aşağıda cevap arıyoruz.
+data("polls_us_election_2016")
+data <- polls_us_election_2016
+
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+k
+
+if (k %% 2 == 0) {
+  head(data, k)
+} else {
+  tail(data, k)
+}
+
+sum(is.na(data))
+
+na_per_column <- colSums(is.na(data))
+na_per_column <- sort(na_per_column, decreasing = TRUE)
+
+head(na_per_column, 8)
+
+new_data <- data
+
+for(col in names(new_data)){
+
+  if(is.numeric(new_data[[col]])){
+    
+    new_data[[col]][is.na(new_data[[col]])] <- my_birth_year + k
+    
+  } else if(is.character(new_data[[col]]) | is.factor(new_data[[col]])){
+    
+    new_data[[col]][is.na(new_data[[col]])] <- paste0(my_first, "_", k)
+    
+  }
+
+}
+
+if (k %% 2 == 0) {
+  head(new_data, k)
+} else {
+  tail(new_data, k)
+}
+
+sum(is.na(new_data))
+
+anyNA(new_data)
+
 
 ## (a)
 
