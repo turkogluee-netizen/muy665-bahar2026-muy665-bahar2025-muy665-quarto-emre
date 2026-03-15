@@ -1,34 +1,40 @@
 ---
-title: "Video1 Summary"
+title: "Video Summary: Introduction to Business Analytics"
+author: "Emre Turkoglu"
+date: "2026-03-11"
+format: html
 ---
 
-Video Konusu
+## Video
 
-Video, iş analitiği (Business Analytics) kavramını tanıtmakta ve işletmelerin karar verme süreçlerinde verinin nasıl kullanılabileceğini açıklamaktadır.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUPtQEyaswM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ana Fikir
+## Video Topic
 
-Videonun temel amacı, günümüzde işletmelerin büyük miktarda veri ürettiğini ve bu verilerin doğru analiz edilmesi durumunda şirketlerin daha doğru ve stratejik kararlar alabileceğini göstermektir. İş analitiği, verileri anlamlı bilgiye dönüştürerek yöneticilere karar alma sürecinde önemli bir destek sağlar.
+This video introduces the concept of Business Analytics and explains how data can be used in decision making processes within organizations. In today's digital world, companies generate a large amount of data and analyzing this data correctly can provide a significant competitive advantage.
 
-Önemli Noktalar
+## Main Idea
 
-İş analitiği, işletmelerin verileri analiz ederek performanslarını artırmalarına yardımcı olur.
+The main purpose of the video is to demonstrate how analyzing data and converting it into meaningful information helps businesses make more accurate and strategic decisions. Business analytics enables managers to analyze historical data and make better predictions about the future.
 
-Kurumlar müşteri davranışları, satış verileri ve operasyonel süreçlerden elde edilen verileri analiz ederek daha doğru tahminler yapabilirler.
+## Key Points
 
-İş analitiği üç ana kategoriye ayrılır:
+- Business analytics is an important tool that helps companies improve their performance.
+- Organizations can analyze customer behavior, sales data, and operational data to make better decisions.
+- Business analytics is generally divided into three main categories:
 
-Tanımlayıcı analitik (Descriptive analytics): Geçmişte ne olduğunu anlamaya yardımcı olur.
+1. **Descriptive Analytics**  
+   Helps understand what happened in the past.
 
-Tahmine dayalı analitik (Predictive analytics): Gelecekte ne olabileceğini tahmin eder.
+2. **Predictive Analytics**  
+   Helps estimate what might happen in the future.
 
-Önerici analitik (Prescriptive analytics): En iyi kararın ne olması gerektiğini önerir.
+3. **Prescriptive Analytics**  
+   Suggests what the best decision should be.
 
-Bu yöntemler sayesinde işletmeler rekabet avantajı elde edebilir ve daha verimli çalışabilir.
+## Conclusion
 
-Sonuç / Değerlendirme
-
-Video, iş analitiğinin modern işletmeler için neden önemli olduğunu açıklamaktadır. Veriye dayalı karar verme yaklaşımı sayesinde şirketler riskleri azaltabilir, fırsatları daha iyi değerlendirebilir ve stratejik kararlarını daha sağlam temellere dayandırabilir.
+The video clearly explains why business analytics is important for modern organizations. Data-driven decision making allows companies to reduce risks, identify opportunities, and make more strategic decisions. For this reason, business analytics has become a critical management tool for businesses.
 
 ## (a)
 
@@ -37,3 +43,4 @@ Video, iş analitiğinin modern işletmeler için neden önemli olduğunu açık
 ```
 
 ## (b)
+
