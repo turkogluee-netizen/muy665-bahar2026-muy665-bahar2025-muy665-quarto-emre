@@ -13,7 +13,7 @@ sidebar: false
 
 ## Employements
 
-1.  Astor Makina, Mühendisi, year xxx
+1.  Astor, Makina Mühendisi, year xxx
 
 # Projects
 
