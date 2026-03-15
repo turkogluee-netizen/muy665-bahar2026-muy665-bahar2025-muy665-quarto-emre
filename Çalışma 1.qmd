@@ -1,0 +1,44 @@
+---
+title: "Çalışma 1"
+author: "Emre Turkoglu"
+date: "2026-03-11"
+format: html
+---
+
+## Video
+
+<iframe width="720" height="405"
+src="https://www.youtube.com/embed/cUPtQEyaswM"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+## Video Topic
+
+This video introduces the concept of Business Analytics and explains how organizations use data to support decision-making processes. In today's digital environment, companies generate large amounts of data, and analyzing this data correctly can provide a strong competitive advantage.
+
+## Main Idea
+
+The main purpose of the video is to demonstrate how analyzing data and transforming it into meaningful information helps businesses make more accurate and strategic decisions. Business analytics allows managers to analyze past data and make better predictions about future outcomes.
+
+## Key Points
+
+- Business analytics helps organizations improve their performance.
+- Companies can analyze customer behavior, sales data, and operational information to make better decisions.
+- Business analytics can be divided into three major categories:
+
+### Descriptive Analytics
+Helps organizations understand what happened in the past.
+
+### Predictive Analytics
+Uses historical data to estimate what might happen in the future.
+
+### Prescriptive Analytics
+Provides recommendations about what decision should be taken.
+
+## Conclusion
+
+The video highlights the importance of business analytics in modern organizations. Data-driven decision-making enables companies to reduce risks, identify opportunities, and make more strategic choices. Therefore, business analytics has become an essential management tool for businesses today.
+
+
