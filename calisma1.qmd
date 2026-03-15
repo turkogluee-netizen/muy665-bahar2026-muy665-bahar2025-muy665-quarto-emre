@@ -1,0 +1,42 @@
+---
+title: "Video Summary: Introduction to Business Analytics"
+author: "Emre Turkoglu"
+date: "2026-03-11"
+format: html
+---
+
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUPtQEyaswM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Video Topic
+
+This video introduces the concept of Business Analytics and explains how data can be used in decision making processes within organizations. In today's digital world, companies generate a large amount of data and analyzing this data correctly can provide a significant competitive advantage.
+
+## Main Idea
+
+The main purpose of the video is to demonstrate how analyzing data and converting it into meaningful information helps businesses make more accurate and strategic decisions. Business analytics enables managers to analyze historical data and make better predictions about the future.
+
+## Key Points
+
+- Business analytics is an important tool that helps companies improve their performance.
+- Organizations can analyze customer behavior, sales data, and operational data to make better decisions.
+- Business analytics is generally divided into three main categories:
+
+1. **Descriptive Analytics**  
+   Helps understand what happened in the past.
+
+2. **Predictive Analytics**  
+   Helps estimate what might happen in the future.
+
+3. **Prescriptive Analytics**  
+   Suggests what the best decision should be.
+
+## Conclusion
+
+The video clearly explains why business analytics is important for modern organizations. Data-driven decision making allows companies to reduce risks, identify opportunities, and make more strategic decisions. For this reason, business analytics has become a critical management tool for businesses.
+
+## (a)
+
+
+
