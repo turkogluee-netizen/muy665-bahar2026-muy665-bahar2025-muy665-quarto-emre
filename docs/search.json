@@ -549,7 +549,7 @@
     "href": "about.html#employements",
     "title": "Hakkımda",
     "section": "Employements",
-    "text": "Employements\n\nFirm xxx, position xx, year xxx\nFirm yyy, position yyy, year yyy"
+    "text": "Employements\n\nAstor, Makina Mühendisi, year xxx"
   },
   {
     "objectID": "about.html#internships",
@@ -564,5 +564,33 @@
     "title": "My Blog",
     "section": "",
     "text": "Bu sayfa yapım aşamasındadır.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Çalışma 1.html#video-topic",
+    "href": "Çalışma 1.html#video-topic",
+    "title": "Çalışma 1",
+    "section": "Video Topic",
+    "text": "Video Topic\nThis video introduces the concept of Business Analytics and explains how organizations use data to support decision-making processes. In today’s digital environment, companies generate large amounts of data, and analyzing this data correctly can provide a strong competitive advantage."
+  },
+  {
+    "objectID": "Çalışma 1.html#main-idea",
+    "href": "Çalışma 1.html#main-idea",
+    "title": "Çalışma 1",
+    "section": "Main Idea",
+    "text": "Main Idea\nThe main purpose of the video is to demonstrate how analyzing data and transforming it into meaningful information helps businesses make more accurate and strategic decisions. Business analytics allows managers to analyze past data and make better predictions about future outcomes."
+  },
+  {
+    "objectID": "Çalışma 1.html#key-points",
+    "href": "Çalışma 1.html#key-points",
+    "title": "Çalışma 1",
+    "section": "Key Points",
+    "text": "Key Points\n\nBusiness analytics helps organizations improve their performance.\nCompanies can analyze customer behavior, sales data, and operational information to make better decisions.\nBusiness analytics can be divided into three major categories:\n\n\nDescriptive Analytics\nHelps organizations understand what happened in the past.\n\n\nPredictive Analytics\nUses historical data to estimate what might happen in the future.\n\n\nPrescriptive Analytics\nProvides recommendations about what decision should be taken."
+  },
+  {
+    "objectID": "Çalışma 1.html#conclusion",
+    "href": "Çalışma 1.html#conclusion",
+    "title": "Çalışma 1",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe video highlights the importance of business analytics in modern organizations. Data-driven decision-making enables companies to reduce risks, identify opportunities, and make more strategic choices. Therefore, business analytics has become an essential management tool for businesses today."
   }
 ]
