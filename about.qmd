@@ -31,4 +31,4 @@ R, Quarto, Git, Python
 
 # Özgeçmiş
 
-CV'mi indirmek için **[buraya tıklayın](assets/index.pdf)**.
+CV'mi indirmek için [**buraya tıklayın**](assets/index.pdf).
