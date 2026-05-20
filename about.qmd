@@ -22,6 +22,10 @@ R, Quarto, Git, Python
 
 Veri bilimi, spor, fotoğrafçılık
 
+<<<<<<< HEAD
 #Özgeçmiş
 
 [CV'mi indirmek için buraya tıklayın.](link)
+=======
+CV'mi indirmek için [**buraya tıklayın**](assets/index.pdf).
+>>>>>>> 2c8aa27c1f0bc5d4ae2bde1fa795cf564168540c

@@ -1,0 +1,76 @@
+---
+title: "Çalışma 1"
+format: html
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Seçilen Video
+
+**Video:** Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Daşdemir
+
+## Video Özeti
+
+Bu video, iş analitiği kavramını tanıtmakta ve işletmelerin karar alma süreçlerinde verinin nasıl kullanılabileceğini açıklamaktadır. İş analitiği sayesinde şirketler veriyi analiz ederek daha doğru kararlar alabilir ve rekabet avantajı elde edebilir.
+
+## Sorular
+
+### Açık Uçlu Soru
+
+İşletmeler tahmine dayalı analitik ile ne kazanır?
+
+### Cevap
+
+Geleceği tahmin ederek daha doğru karar alırlar.
+
+### Çoktan Seçmeli Soru
+
+Hangisi iş analitiği türü değildir?
+
+A) Tanımlayıcı  
+B) Tahmine dayalı  
+C) Duygu analitiği  
+D) Önerici  
+
+Doğru cevap: C
+
+## Veri Analizi
+
+```{r}
+library(dslabs)
+library(dplyr)
+
+data("polls_us_election_2016")
+
+my_first <- "Emre"
+my_birth_year <- 1987
+
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+k
+
+if (k %% 2 == 0) {
+  head(polls_us_election_2016, k)
+} else {
+  tail(polls_us_election_2016, k)
+}
+
+sum(is.na(polls_us_election_2016))
+
+na_counts <- sort(colSums(is.na(polls_us_election_2016)), decreasing = TRUE)[1:8]
+data.frame(Sutun = names(na_counts), NA = na_counts)
+
+new_data <- polls_us_election_2016 %>%
+  mutate(across(where(is.numeric), ~ ifelse(is.na(.), my_birth_year + k, .))) %>%
+  mutate(across(where(is.character) | where(is.factor), ~ ifelse(is.na(.), paste0(my_first, "_", k), as.character(.))))
+
+if (k %% 2 == 0) {
+  head(new_data, k)
+} else {
+  tail(new_data, k)
+}
+
+sum(is.na(new_data))
+
+anyNA(new_data)

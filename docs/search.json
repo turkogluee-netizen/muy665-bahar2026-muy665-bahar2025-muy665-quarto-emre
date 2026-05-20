@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Analitik sayfama hoş geldiniz",
+    "title": "Emre Türkoğlu’nun Analitik Sayfasına Hoş Geldiniz",
     "section": "",
-    "text": "MUY660-İş Analitiği dersi sayfama hoş geldiniz.\nBu analitik çalışmalarımızı paylaşıyorum.\n\n\n\n Back to top"
+    "text": "MUY660-İş Analitiği dersi sayfama hoş geldiniz.\nBu analitik çalışmalarımı paylaşıyorum.\n\n\n\n Back to top"
   },
   {
     "objectID": "teammembers/volkansonmez.html",
@@ -249,7 +249,7 @@
     "href": "proje.html",
     "title": "Proje X (proje adını yazınız)",
     "section": "",
-    "text": "Proje sayfamıza hoş geldiniz.\nProjemizle ilgili güncellemelerden haberdar olmak için bu alanı takip edin.\n(Aşağıdaki başlıklar örnek olarak verilmiştir; lütfen gerektiği şekilde düzenlemekten çekinmeyin.)"
+    "text": "Projemizle ilgili güncellemelerden haberdar olmak için bu xxxxx bağlantısındaki proje sayfamızı takip edin.\n(Aşağıdaki başlıklar örnek olarak verilmiştir; lütfen gerektiği şekilde düzenlemekten çekinmeyin.)"
   },
   {
     "objectID": "proje.html#data-source",
@@ -312,7 +312,7 @@
     "href": "portfolyo/calisma2.html",
     "title": "Çalışma 2",
     "section": "",
-    "text": "(Aşağıdakiler örnek olarak verilmiştir.)\nBu çalışmada 3 görevimiz var. Bu görevler….. Bunlara sırayla aşağıda cevap arıyoruz.",
+    "text": "my_first &lt;- “Emre” my_birth_year &lt;- 1987\ndata(“polls_us_election_2016”) data &lt;- polls_us_election_2016\nk &lt;- (nchar(my_first) + my_birth_year) %% 15 + 8 k\nif (k %% 2 == 0) { head(data, k) } else { tail(data, k) }\nsum(is.na(data))\nna_per_column &lt;- colSums(is.na(data)) na_per_column &lt;- sort(na_per_column, decreasing = TRUE)\nhead(na_per_column, 8)\nnew_data &lt;- data\nfor(col in names(new_data)){\nif(is.numeric(new_data[[col]])){\n} else if(is.character(new_data[[col]]) | is.factor(new_data[[col]])){\n}\n}\nif (k %% 2 == 0) { head(new_data, k) } else { tail(new_data, k) }\nsum(is.na(new_data))\nanyNA(new_data)",
     "crumbs": [
       "Çalışma 2"
     ]
@@ -594,10 +594,137 @@
     "text": "Conclusion\nThe video highlights the importance of business analytics in modern organizations. Data-driven decision-making enables companies to reduce risks, identify opportunities, and make more strategic choices. Therefore, business analytics has become an essential management tool for businesses today."
   },
   {
+<<<<<<< HEAD
     "objectID": "about.html",
     "href": "about.html",
     "title": "Hakkımda",
     "section": "",
     "text": "#Education\nB.S., Başkent Üniversitesi, Makina Mühendisliği, Turkey, 2011 - 2015. M.S., Industrial Engineering, Hacettepe University, Turkey, 2026 - ongoing.\n#Employements\nAstor, Makina Mühendisi, 2023 - ongoing\n#Competencies\nR, Quarto, Git, Python\n#Hobbies\nVeri bilimi, spor, fotoğrafçılık\n#Özgeçmiş\nCV’mi indirmek için buraya tıklayın.\n\n\n\n Back to top"
+=======
+    "objectID": "portfolyo/Çalışma 1.html#video-topic",
+    "href": "portfolyo/Çalışma 1.html#video-topic",
+    "title": "Çalışma 1",
+    "section": "Video Topic",
+    "text": "Video Topic\nThis video introduces the concept of Business Analytics and explains how organizations use data to support decision-making processes. In today’s digital environment, companies generate large amounts of data, and analyzing this data correctly can provide a strong competitive advantage."
+  },
+  {
+    "objectID": "portfolyo/Çalışma 1.html#main-idea",
+    "href": "portfolyo/Çalışma 1.html#main-idea",
+    "title": "Çalışma 1",
+    "section": "Main Idea",
+    "text": "Main Idea\nThe main purpose of the video is to demonstrate how analyzing data and transforming it into meaningful information helps businesses make more accurate and strategic decisions. Business analytics allows managers to analyze past data and make better predictions about future outcomes."
+  },
+  {
+    "objectID": "portfolyo/Çalışma 1.html#key-points",
+    "href": "portfolyo/Çalışma 1.html#key-points",
+    "title": "Çalışma 1",
+    "section": "Key Points",
+    "text": "Key Points\n\nBusiness analytics helps organizations improve their performance.\nCompanies can analyze customer behavior, sales data, and operational information to make better decisions.\nBusiness analytics can be divided into three major categories:\n\n\nDescriptive Analytics\nHelps organizations understand what happened in the past.\n\n\nPredictive Analytics\nUses historical data to estimate what might happen in the future.\n\n\nPrescriptive Analytics\nProvides recommendations about what decision should be taken."
+  },
+  {
+    "objectID": "portfolyo/Çalışma 1.html#conclusion",
+    "href": "portfolyo/Çalışma 1.html#conclusion",
+    "title": "Çalışma 1",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe video highlights the importance of business analytics in modern organizations. Data-driven decision-making enables companies to reduce risks, identify opportunities, and make more strategic choices. Therefore, business analytics has become an essential management tool for businesses today."
+  },
+  {
+    "objectID": "portfolyo/odev-1met.html#video-topic",
+    "href": "portfolyo/odev-1met.html#video-topic",
+    "title": "Video Summary: Introduction to Business Analytics",
+    "section": "Video Topic",
+    "text": "Video Topic\nThis video introduces the concept of Business Analytics and explains how data can be used in decision making processes within organizations. In today’s digital world, companies generate a large amount of data and analyzing this data correctly can provide a significant competitive advantage."
+  },
+  {
+    "objectID": "portfolyo/odev-1met.html#main-idea",
+    "href": "portfolyo/odev-1met.html#main-idea",
+    "title": "Video Summary: Introduction to Business Analytics",
+    "section": "Main Idea",
+    "text": "Main Idea\nThe main purpose of the video is to demonstrate how analyzing data and converting it into meaningful information helps businesses make more accurate and strategic decisions. Business analytics enables managers to analyze historical data and make better predictions about the future."
+  },
+  {
+    "objectID": "portfolyo/odev-1met.html#key-points",
+    "href": "portfolyo/odev-1met.html#key-points",
+    "title": "Video Summary: Introduction to Business Analytics",
+    "section": "Key Points",
+    "text": "Key Points\n\nBusiness analytics is an important tool that helps companies improve their performance.\nOrganizations can analyze customer behavior, sales data, and operational data to make better decisions.\nBusiness analytics is generally divided into three main categories:\n\n\nDescriptive Analytics\nHelps understand what happened in the past.\nPredictive Analytics\nHelps estimate what might happen in the future.\nPrescriptive Analytics\nSuggests what the best decision should be."
+  },
+  {
+    "objectID": "portfolyo/odev-1met.html#conclusion",
+    "href": "portfolyo/odev-1met.html#conclusion",
+    "title": "Video Summary: Introduction to Business Analytics",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe video clearly explains why business analytics is important for modern organizations. Data-driven decision making allows companies to reduce risks, identify opportunities, and make more strategic decisions. For this reason, business analytics has become a critical management tool for businesses."
+  },
+  {
+    "objectID": "portfolyo/Çalışma 1.html",
+    "href": "portfolyo/Çalışma 1.html",
+    "title": "Emre Türkoğlu'nun Analitik Labı",
+    "section": "",
+    "text": "title: “Çalışma 1”\n\nBu çalışmada iş analitiği kavramını inceledik, bir video özeti hazırladık ve R dili ile temel veri analizi uygulamaları gerçekleştirdik.\n## Video Özeti\nBu video, iş analitiği (Business Analytics) kavramını tanıtmakta ve işletmelerin karar alma süreçlerinde verinin nasıl kullanılabileceğini açıklamaktadır. Günümüzde şirketler çok büyük miktarda veri üretmektedir ve bu verilerin doğru şekilde analiz edilmesi işletmeler için önemli bir rekabet avantajı sağlayabilmektedir.\nAna Fikir\nVideonun temel amacı, verilerin analiz edilerek anlamlı bilgiye dönüştürülmesinin işletmelerin daha doğru ve stratejik kararlar almasına yardımcı olduğunu göstermektir. İş analitiği, yöneticilerin geçmiş verileri inceleyerek geleceğe yönelik daha doğru tahminler yapmasına imkan sağlar.\nÖnemli Noktalar\nİş analitiği işletmelerin performansını artırmak için kullanılan önemli bir araçtır.\nŞirketler müşteri davranışları, satış verileri ve operasyonel süreçlerden elde edilen verileri analiz ederek daha iyi kararlar alabilir.\nİş analitiği üç temel kategoriye ayrılmaktadır:\nTanımlayıcı Analitik (Descriptive Analytics): Geçmişte ne olduğunu anlamaya yardımcı olur.\nTahmine Dayalı Analitik (Predictive Analytics): Gelecekte neler olabileceğini tahmin etmeye yardımcı olur.\nÖnerici Analitik (Prescriptive Analytics): En iyi kararın ne olması gerektiği konusunda öneriler sunar.\nSonuç ve Değerlendirme\nVideo, iş analitiğinin modern işletmeler için neden önemli olduğunu açık bir şekilde göstermektedir. Veriye dayalı karar verme yaklaşımı sayesinde şirketler riskleri azaltabilir, fırsatları daha iyi değerlendirebilir ve daha stratejik kararlar alabilir.\n(Video: Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Daşdemir)\n## Sorular\nAçık Uçlu Soru: İşletmeler, “Tahmine Dayalı Analitik (Predictive Analytics)” kullanarak hangi tür stratejik avantajlar elde edebilir?\nÇoktan Seçmeli Soru: Aşağıdakileceklerden hangisi iş analitiğinin üç temel kategorisinden biri değildir? A) Tanımlayıcı Analitik B) Tahmine Dayalı Analitik C) Duygu Analitiği D) Önerici Analitik (Doğru Cevap: C)\n##R Uygulaması\nAşağıdaki kod bloklarında, kişisel bilgiler üzerinden bir k değeri hesaplanmış ve 2016 ABD seçim anketleri verisi üzerinde analiz yapılmıştır.\n#| echo: true\n#| message: false\n#| warning: false\n# 1. Bilgileri Tanımla\nmy_first &lt;- “Emre”\nmy_birth_year &lt;- 1987\n# 2. k Değerini Hesapla\n# Ad (4 harf) + 1987 = 1991. 1991 %% 15 = 11. 11 + 8 = 19.\nk &lt;- (nchar(my_first) + my_birth_year) %% 15 + 8\nprint(paste(“Hesaplanan k değeri:”, k))\n# 3. Veri Setini Yükle\nlibrary(dslabs)\ndata(“polls_us_election_2016”)\n# 4. k Adet Satırı Görüntüle\n# k tek sayı olduğu için (19) veri setinin SON 19 satırını gösteriyoruz\ntail(polls_us_election_2016, k)\n# 5. Toplam NA Sayısını Listele\ntotal_na &lt;- sum(is.na(polls_us_election_2016))\nprint(paste(“Veri setindeki toplam NA (eksik veri) sayısı:”, total_na))\n# 6. NA Değerlerini Güncelleme\n# Sayısal olanlara: my_birth_year * k (1987 * 19 = 37753)\n# Karakter olanlara: “Emre_19”\nnew_data &lt;- polls_us_election_2016\nnew_data[] &lt;- lapply(new_data, function(x) {\nif(is.numeric(x)) {\nx[is.na(x)] &lt;- my_birth_year * k\n} else if(is.character(x) | is.factor(x)) {\nx &lt;- as.character(x)\nx[is.na(x)] &lt;- paste0(my_first, “_”, k)\n}\nreturn(x)\n})\n# 7. Kontrol (Eksik veri kalıp kalmadığını kontrol et)\n# Sonuç FALSE çıkmalıdır.\nanyNA(new_data)\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "portfolyo/calisma 1.html",
+    "href": "portfolyo/calisma 1.html",
+    "title": "Çalışma 1",
+    "section": "",
+    "text": "Video: Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Daşdemir"
+  },
+  {
+    "objectID": "portfolyo/calisma 1.html#seçilen-video",
+    "href": "portfolyo/calisma 1.html#seçilen-video",
+    "title": "Çalışma 1",
+    "section": "",
+    "text": "Video: Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Daşdemir"
+  },
+  {
+    "objectID": "portfolyo/calisma 1.html#video-özeti",
+    "href": "portfolyo/calisma 1.html#video-özeti",
+    "title": "Çalışma 1",
+    "section": "Video Özeti",
+    "text": "Video Özeti\nBu video, iş analitiği kavramını tanıtmakta ve işletmelerin karar alma süreçlerinde verinin nasıl kullanılabileceğini açıklamaktadır. İş analitiği sayesinde şirketler veriyi analiz ederek daha doğru kararlar alabilir ve rekabet avantajı elde edebilir."
+  },
+  {
+    "objectID": "portfolyo/calisma 1.html#sorular",
+    "href": "portfolyo/calisma 1.html#sorular",
+    "title": "Çalışma 1",
+    "section": "Sorular",
+    "text": "Sorular\n\nAçık Uçlu Soru\nİşletmeler tahmine dayalı analitik ile ne kazanır?\n\n\nCevap\nGeleceği tahmin ederek daha doğru karar alırlar.\n\n\nÇoktan Seçmeli Soru\nHangisi iş analitiği türü değildir?\n\nTanımlayıcı\n\nTahmine dayalı\n\nDuygu analitiği\n\nÖnerici\n\nDoğru cevap: C"
+  },
+  {
+    "objectID": "portfolyo/calisma 1.html#veri-analizi",
+    "href": "portfolyo/calisma 1.html#veri-analizi",
+    "title": "Çalışma 1",
+    "section": "Veri Analizi",
+    "text": "Veri Analizi\nlibrary(dslabs) library(dplyr)\ndata(“polls_us_election_2016”)\nmy_first &lt;- “Emre” my_birth_year &lt;- 1987\nk &lt;- (nchar(my_first) + my_birth_year) %% 15 + 8 k\nif (k %% 2 == 0) { head(polls_us_election_2016, k) } else { tail(polls_us_election_2016, k) }\nsum(is.na(polls_us_election_2016))\nna_counts &lt;- sort(colSums(is.na(polls_us_election_2016)), decreasing = TRUE)[1:8] data.frame(Sutun = names(na_counts), NA = na_counts)\nnew_data &lt;- polls_us_election_2016 %&gt;% mutate(across(where(is.numeric), ~ ifelse(is.na(.), my_birth_year + k, .))) %&gt;% mutate(across(where(is.character) | where(is.factor), ~ ifelse(is.na(.), paste0(my_first, “_“, k), as.character(.))))\nif (k %% 2 == 0) { head(new_data, k) } else { tail(new_data, k) }\nsum(is.na(new_data))\nanyNA(new_data)"
+  },
+  {
+    "objectID": "calisma 1.html#video-topic",
+    "href": "calisma 1.html#video-topic",
+    "title": "Çalışma 1",
+    "section": "Video Topic",
+    "text": "Video Topic\nThis video introduces the concept of Business Analytics and explains how organizations use data to support decision-making processes. In today’s digital environment, companies generate large amounts of data, and analyzing this data correctly can provide a strong competitive advantage."
+  },
+  {
+    "objectID": "calisma 1.html#main-idea",
+    "href": "calisma 1.html#main-idea",
+    "title": "Çalışma 1",
+    "section": "Main Idea",
+    "text": "Main Idea\nThe main purpose of the video is to demonstrate how analyzing data and transforming it into meaningful information helps businesses make more accurate and strategic decisions. Business analytics allows managers to analyze past data and make better predictions about future outcomes."
+  },
+  {
+    "objectID": "calisma 1.html#key-points",
+    "href": "calisma 1.html#key-points",
+    "title": "Çalışma 1",
+    "section": "Key Points",
+    "text": "Key Points\n\nBusiness analytics helps organizations improve their performance.\nCompanies can analyze customer behavior, sales data, and operational information to make better decisions.\nBusiness analytics can be divided into three major categories:\n\n\nDescriptive Analytics\nHelps organizations understand what happened in the past.\n\n\nPredictive Analytics\nUses historical data to estimate what might happen in the future.\n\n\nPrescriptive Analytics\nProvides recommendations about what decision should be taken."
+  },
+  {
+    "objectID": "calisma 1.html#conclusion",
+    "href": "calisma 1.html#conclusion",
+    "title": "Çalışma 1",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe video highlights the importance of business analytics in modern organizations. Data-driven decision-making enables companies to reduce risks, identify opportunities, and make more strategic choices. Therefore, business analytics has become an essential management tool for businesses today."
+>>>>>>> 2c8aa27c1f0bc5d4ae2bde1fa795cf564168540c
   }
 ]
