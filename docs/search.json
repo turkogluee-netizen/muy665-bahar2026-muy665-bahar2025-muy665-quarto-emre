@@ -547,7 +547,7 @@
   {
     "objectID": "about.html#employements",
     "href": "about.html#employements",
-    "title": "Hakkımda",
+    "title": "EMRE TURKOGLU",
     "section": "Employements",
     "text": "Employements\n\nAstor, Makina Mühendisi, year xxx"
   },
@@ -592,5 +592,12 @@
     "title": "Çalışma 1",
     "section": "Conclusion",
     "text": "Conclusion\nThe video highlights the importance of business analytics in modern organizations. Data-driven decision-making enables companies to reduce risks, identify opportunities, and make more strategic choices. Therefore, business analytics has become an essential management tool for businesses today."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hakkımda",
+    "section": "",
+    "text": "#Education\nB.S., Başkent Üniversitesi, Makina Mühendisliği, Turkey, 2011 - 2015. M.S., Industrial Engineering, Hacettepe University, Turkey, 2026 - ongoing.\n#Employements\nAstor, Makina Mühendisi, 2023 - ongoing\n#Competencies\nR, Quarto, Git, Python\n#Hobbies\nVeri bilimi, spor, fotoğrafçılık\n#Özgeçmiş\nCV’mi indirmek için buraya tıklayın.\n\n\n\n Back to top"
   }
 ]

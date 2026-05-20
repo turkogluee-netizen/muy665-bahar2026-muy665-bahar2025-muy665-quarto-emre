@@ -3,32 +3,25 @@ title: "Hakkımda"
 sidebar: false 
 ---
 
-![](assets/images/vesikalik.jpeg){fig-align="center"}
 
-# Eğitim
+#Education
 
--   B.S., Başkent Üniversitesi, Turkey, 20xx - 20xx.
+B.S., Başkent Üniversitesi, Makina Mühendisliği, Turkey, 2011 - 2015.<br>
+M.S., Industrial Engineering, Hacettepe University, Turkey, 2026 - ongoing.<br>
 
-# İş Tecrübesi
 
-## Employements
+#Employements
 
-1.  Astor, Makina Mühendisi, year xxx
+Astor, Makina Mühendisi, 2023 - ongoing<br>
 
-# Projects
-
-1.  TUBİTAK 1001..........................
-
-# Publications
-
-1.  Dasdemir, E., Batta, R., Koksalan, M., Tezcaner Ozturk, D. (2022) “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-Dependent Prizes and Multiple Connections”, Computers & Operations Research, 145: 105882.
-
-# Competencies
+#Competencies
 
 R, Quarto, Git, Python
 
-# Hobbies
+#Hobbies
 
-# Özgeçmiş
+Veri bilimi, spor, fotoğrafçılık
 
-CV'mi indirmek için **[buraya tıklayın](assets/index.pdf)**.
+#Özgeçmiş
+
+[CV'mi indirmek için buraya tıklayın.](link)
